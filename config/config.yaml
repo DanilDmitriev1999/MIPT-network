@@ -1,0 +1,5 @@
+Info:
+  TOKEN: "5009766741:AAHNg2mA-tZAVVsyzxeBjT44TZjaO9nBNmU"
+
+Model:
+  model_name: "distilbert-multilingual-nli-stsb-quora-ranking"
